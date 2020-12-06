@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox", "Sandbox\Sandbox.csproj", "{75587B17-9954-4F21-9F16-E82199F391B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{5497B293-7052-4BAB-A280-F6F8C68D29BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{5497B293-7052-4BAB-A280-F6F8C68D29BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{CCC171F2-917D-4D96-A84D-E13641CDD0F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{CCC171F2-917D-4D96-A84D-E13641CDD0F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{B26E630D-CAC4-4DF0-9663-52F3B598B830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{B26E630D-CAC4-4DF0-9663-52F3B598B830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{5F20717A-4540-4825-BE2D-C55BE5D06BE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{5F20717A-4540-4825-BE2D-C55BE5D06BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockingApp", "RockingApp\RockingApp.csproj", "{80C4BAF1-7D82-456B-8513-820047535FE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +141,18 @@ Global
 		{5F20717A-4540-4825-BE2D-C55BE5D06BE8}.Release|x64.Build.0 = Release|Any CPU
 		{5F20717A-4540-4825-BE2D-C55BE5D06BE8}.Release|x86.ActiveCfg = Release|Any CPU
 		{5F20717A-4540-4825-BE2D-C55BE5D06BE8}.Release|x86.Build.0 = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|x64.Build.0 = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Debug|x86.Build.0 = Debug|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|x64.ActiveCfg = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|x64.Build.0 = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|x86.ActiveCfg = Release|Any CPU
+		{80C4BAF1-7D82-456B-8513-820047535FE0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
